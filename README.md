@@ -26,7 +26,7 @@ Instead of just being a normal alarm, this circuit is designed to **automaticall
 [▶️ Click Here to Play the Action Video](https://github.com/MeshalAlsalem/Auto-Shutoff-Temperature-System/raw/main/VIDEO-2026-01-30-23-18-22.mp4)
 
 ## 📄 Project Report
-[📑 Click Here to View the Complete Project Report (PDF)](https://github.com/MeshalAlsalem/Auto-Shutoff-Temperature-System/blob/main/Electronic%20circuits.pdf)
+[📑 Click Here to View the Complete Project Report (PDF)](https://github.com/MeshalAlsalem/Auto-Shutoff-Temperature-System/raw/main/Electronic%20circuits.pdf)
 
 ## 🚀 Real-World Uses
 This simple idea can be used in big projects like:
