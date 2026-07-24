@@ -23,7 +23,6 @@ Instead of just being a normal alarm, this circuit is designed to **automaticall
 ![Circuit Setup](PHOTO-2026-01-30-23-20-20.jpg)
 
 ## 🎥 Action Video
-## 🎥 Action Video
 [▶️ Click Here to Play the Action Video](https://github.com/MeshalAlsalem/Auto-Shutoff-Temperature-System/raw/main/VIDEO-2026-01-30-23-18-22.mp4)
 
 ## 🚀 Real-World Uses
